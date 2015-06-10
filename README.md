@@ -1,7 +1,7 @@
 # ppf-matching
 Matlab implementation of the Point-pair feature matching method proposed by Drost et al. [1] 
 
-Several improvements which allow to speed-up the detection process and also to increase the detection rate are implemented. Detailed description of these improvements can be found in my [master's theses](https://dspace.cvut.cz/handle/10467/62026?locale-attribute=en) 
+Several improvements which allow to speed-up the detection process and also to increase the detection rate are implemented. Detailed description of these improvements can be found in my [master's thesis](https://dspace.cvut.cz/handle/10467/62026?locale-attribute=en) 
 
 If you use this code in your research please cite [Detection and Localization of Texture-Less Objects in RGB-D Images](https://dspace.cvut.cz/handle/10467/62026?locale-attribute=en)
 
